@@ -21,5 +21,4 @@ Repositori ini dikelola untuk memenuhi persyaratan pengumpulan UTS Pembelajaran 
 202431137_NATAN_VALESKA_PAPUTUNGAN_UTS_F/
 │
 ├── 202431137_NATAN_VALESKA_PAPUTUNGAN_UTS_PM_F.pdf    # Laporan lengkap UTS (Bab I - Daftar Pustaka)
-├── 202431137_UTS_PM.ipynb                             # File Jupyter Notebook berisi kode & watermark NIM
-└── 02_diabetes.csv                                    # Dataset utama yang digunakan
+└── 202431137_UTS_PM.ipynb                             # File Jupyter Notebook berisi kode & watermark NIM
