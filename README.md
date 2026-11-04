@@ -2,16 +2,16 @@
 Repositori resmi Ujian Tengah Semester (UTS) Mata Kuliah Pembelajaran Mesin 2026 - Implementasi Algoritma Regresi Linear &amp; KNN pada Dataset Diabetes.
 
 # Ujian Tengah Semester (UTS) Pembelajaran Mesin 2026
-**Topik / Dataset:** Dataset 2 - Diabetes (`02_diabetes.csv`)  
-**Algoritma:** Regresi Linear & K-Nearest Neighbors (KNN)
+**Dataset   :** Dataset 2 - Diabetes (`02_diabetes.csv`)  
+**Algoritma :** Regresi Linear & K-Nearest Neighbors (KNN)
 
 ---
 
 ## 👨‍💻 Identitas Mahasiswa
-* **Nama Lengkap:** Natan Valeska Paputungan
-* **NIM:** 202431137
-* **Program Studi:** Teknik Informatika (Semester 5)
-* **Mata Kuliah:** Pembelajaran Mesin
+* **Nama Lengkap  :** Natan Valeska Paputungan
+* **NIM           :** 202431137
+* **Program Studi :** Teknik Informatika
+* **Mata Kuliah   :** Pembelajaran Mesin
 
 ---
 
